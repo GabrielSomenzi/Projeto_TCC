@@ -1,0 +1,169 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-screen-orientation",
+      "/home/gabriel/Documentos/G/Mobile/Desenvolvimento_Mobile/Projeto TCC/aula_09"
+    ]
+  ],
+  "_from": "cordova-plugin-screen-orientation@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-screen-orientation@3.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "",
+  "_location": "/cordova-plugin-screen-orientation",
+  "_nodeVersion": "12.3.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-screen-orientation_3.0.2_1562090920893_0.5409621198941352"
+  },
+  "_npmUser": {
+    "email": "piotrowski+npmjs.com@gmail.com",
+    "name": "sujan12"
+  },
+  "_npmVersion": "6.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-screen-orientation",
+    "raw": "cordova-plugin-screen-orientation",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-screen-orientation/-/cordova-plugin-screen-orientation-3.0.2.tgz",
+  "_shasum": "81290a933cfe84d35482cfcb251c931cc7b71931",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-screen-orientation",
+  "_where": "/home/gabriel/Documentos/G/Mobile/Desenvolvimento_Mobile/Projeto TCC/aula_09",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-screen-orientation/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-screen-orientation",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Screen Orientation plugin",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 13,
+    "integrity": "sha512-2w6CMC+HGvbhogJetalwGurL2Fx8DQCCPy3wlSZHN1/W7WoQ5n9ujVozcoKrY4VaagK6bxrPFih+ElkO8Uqfzg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdG52pCRA9TVsSAnZWagAAqfYQAJnoUqxr9gXPNOWGvhT1\n/U+qRrIjojtmkcYyavXDbYUl8ZwL7nC+z4GNkAAeqOSYsj+N6fYuENF30Hko\nvTr//ZyU7BFvt+9jn06E1KKnOG48qgc852Z5/ARMTMy11RTYsEGz1w73rtck\n9HUxOJlZX2FidJrqVJ5JS4DR2y8k+wN5sMOtsHUEGPw3LIxxPys5HbNVkjNd\nM78OGjsZREyGJbdCKaHaQdUrI2NBBl7lLm8nkssodYpH4GktACcvB360TJfk\nU4sLP3G9FCYuN/kbL/Ipag+ltjDSbHv/pCve0V3I+084VuPeTzdUOQTXP+6d\nOEaPR+D+GVQQL+jb9fUjvqy7jZU34+Lq42hK+4FstEG7CvIy8yKrIZPpr2l7\nsiy9tG7kPxcamrPV/jeKXnB9EtsPUrWLvqIRkSagaxPk7kXaaaxtNX2RSif9\nt2K20MRMGCPJjV/2ooKTnLqY5POWITf7DrvFbYrcQgIzJNkuYhNeBeTPdF3c\nAePCpG12BK1xcUDUop0Q6uCOwzUbTpY6WCaW+JGtCbFb0XKwHdK7JoFuhWu/\nuJsRhYnK9I+1iz0aywos0xki/tB5+nrI+62/HdZbQhnW+t1LyCpEWO0ifTAu\nVg3cbSrPO21CabR+0bfD+7vH4UfAkaXncwVPF/qG+MLxlCLCf8sK66UlXAnJ\ny66K\r\n=qy0K\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "81290a933cfe84d35482cfcb251c931cc7b71931",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-screen-orientation/-/cordova-plugin-screen-orientation-3.0.2.tgz",
+    "unpackedSize": 48433
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "4.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-screen-orientation#readme",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "device",
+    "ecosystem:cordova",
+    "landscape",
+    "orientation",
+    "portrait",
+    "screen"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "jcesarmobile",
+      "email": "jcesarmobile@gmail.com"
+    },
+    {
+      "name": "anis",
+      "email": "anis.kadri@gmail.com"
+    },
+    {
+      "name": "brodybits",
+      "email": "chris@brody.consulting"
+    },
+    {
+      "name": "cordovaowner",
+      "email": "apachecordovabot@gmail.com"
+    },
+    {
+      "name": "dpogue",
+      "email": "darryl@dpogue.ca"
+    },
+    {
+      "name": "erisu",
+      "email": "erisu.dev@outlook.jp"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "gbenvenuti",
+      "email": "grant.benvenuti@gmail.com"
+    },
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "macdonst",
+      "email": "simon.macdonald@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    },
+    {
+      "name": "sujan12",
+      "email": "piotrowski+npmjs.com@gmail.com"
+    },
+    {
+      "name": "surajpindoria",
+      "email": "suraj.pindoria@yahoo.com"
+    },
+    {
+      "name": "tony--",
+      "email": "tony.homer@intel.com"
+    }
+  ],
+  "name": "cordova-plugin-screen-orientation",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-screen-orientation.git"
+  },
+  "scripts": {
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint demo/www",
+    "test": "npm run jshint"
+  },
+  "version": "3.0.2"
+}

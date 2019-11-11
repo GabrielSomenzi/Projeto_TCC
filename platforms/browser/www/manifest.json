@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Doctorwho",
+  "short_name": "Doctorwho",
+  "version": "mobile.ProjetoD",
+  "description": "Projeto tcc",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
