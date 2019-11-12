@@ -3,7 +3,7 @@ import AboutPage from './assets/vue/pages/about.vue';
 
 
 import PanelLeftPage from './assets/vue/pages/panel-left.vue';
-import ColorThemes from './assets/vue/pages/color-themes.vue';
+import Faleconosco from './assets/vue/pages/faleconosco.vue';
 
 
 import Dentista from './assets/vue/pages/dentista.vue';
@@ -29,8 +29,8 @@ export default [
     component: PanelLeftPage
   },
   {
-    path: '/color-themes/',
-    component: ColorThemes
+    path: '/faleconosco/',
+    component: Faleconosco
   },
 
   {

@@ -359,7 +359,7 @@
           <div class="block">
             <!-- Close Popup -->
             <div class="item-text">
-              <div class="item-header">Sobre mim</div>Profissional formada na Universidade Federal do Rio Grande (FURG) no ano de 2011, com Residência médica realizada na mesma instituição com Registro de Qualificação de Especialidade (RQE) Nº 28028.
+              <div class="item-header"></div>Profissional formada na Universidade Federal do Rio Grande (FURG) no ano de 2011, com Residência médica realizada na mesma instituição com Registro de Qualificação de Especialidade (RQE) Nº 28028.
               Atende nas áreas de cirurgia ginecológica, atendimento de pré-natal, consulta de rotina ginecológica, menopausa, aplicação de DIU de Cobre e Hormonal, Colposcopia com e sem biópsia.
             </div>
             <br />

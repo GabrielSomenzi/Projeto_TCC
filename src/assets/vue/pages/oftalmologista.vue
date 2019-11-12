@@ -147,7 +147,6 @@
                 </div>
               </a>
             </li>
-
             <li>
               <a
                 href="eliduarte@outlook.com"
@@ -161,23 +160,6 @@
                 <div class="item-inner">
                   <div class="item-title">
                     <div class="item-header">Email</div>eliduarte@outlook.com
-                  </div>
-                </div>
-              </a>
-            </li>
-            <li>
-              <a href="#" class="item-link item-content">
-                <div class="item-media link external icon-only button button-fill-md color-blue">
-                  <i class="far fa-file-alt"></i>
-                </div>
-                <div class="item-inner">
-                  <div class="item-title">
-                    <div class="item-title">
-                      <div class="item-header">Experiência em</div>Plástica Ocular
-                      <p>
-                        <br />
-                      </p>
-                    </div>
                   </div>
                 </div>
               </a>
@@ -292,7 +274,9 @@
                 <br />
                 <div class="item-title">
                   <div class="item-header">
-                    <b>Experiência em:</b>
+                    Graduação em medicina pela Universidade Federal de Pelotas.
+                    Médico oftalmologista pelo Hospital de Olhos do Paraná.
+                    Título de especialista em oftalmologia reconhecido e aprovado pelo Conselho Brasileiro de Oftalmologia e Associação Médica Brasileira.
                   </div>
                   <p></p>
                 </div>
@@ -325,10 +309,9 @@
               <div class="item-title">
                 <br />
                 <div class="item-title">
-                  <div class="item-header">
-                    <b>Experiência em:</b>
-                  </div>
-                  <p></p>
+                  <div
+                    class="item-header"
+                  >Formada em Medicina pela Universidade Federal de Pelotas, Residência em oftalmologia pela Universidade Federal da Fronteira Sul e Mestrado em Epidemiologia também pela Universidade Federal de Pelotas.</div>
                 </div>
               </div>
             </div>

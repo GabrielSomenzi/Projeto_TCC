@@ -319,25 +319,23 @@
             </a>
           </f7-navbar>
           <div class="block">
-            <!-- Close Popup -->
+            <!-- Fecha Popup -->
             <p></p>
             <div class="item-inner">
               <div class="item-title">
                 <div class="item-title">
-                  <div class="item-header">Sobre mim</div>Nutricionista especialista
+                  <div class="item-header"></div>Nutricionista especialista
                   <p>em nutrição clínica, a área</p>
                   <p>da nutrição que cuida do seu</p>
                   <p>estado nutricional, preven-</p>
                   <p>indo e controlando alterações</p>
                   <p>metabólicas</p>
-                  <p>prejudiciais a sua saúde. Um</p>
-                  <p>profissional que tem paixão</p>
-                  <p>por saúde, nutrição</p>
-                  <p>e qualidade de vida!</p>
+                  <p>prejudiciais a sua saúde.</p>
                   <p></p>
                   <br />
                   <div class="item-title">
-                    <div class="item-header">Experiência em</div>Nutrição Comportamental
+                    <div class="item-header">Experiência em</div>
+                    <p>Nutrição Comportamental</p>
                     <p>Emagrecimento</p>
                     <p>Nutrição Clínica</p>
                     <p>Nutrição para Diabetes</p>
@@ -371,7 +369,7 @@
             <div class="item-inner">
               <div class="item-title">
                 <div class="item-title">
-                  <div class="item-header">Sobre mim</div>Nutricionista especialista
+                  <div class="item-header"></div>Nutricionista especialista
                   <p>em nutrição clínica, a área</p>
                   <p>da nutrição que cuida do seu</p>
                   <p>estado nutricional, preven-</p>
@@ -411,7 +409,7 @@
             <div class="item-inner">
               <div class="item-title">
                 <div class="item-title">
-                  <div class="item-header">Sobre mim</div>Nutricionista especialista
+                  <div class="item-header"></div>Nutricionista especialista
                   <p>em nutrição clínica, a área</p>
                   <p>da nutrição que cuida do seu</p>
                   <p>estado nutricional, preven-</p>

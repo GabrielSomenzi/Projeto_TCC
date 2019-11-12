@@ -28,10 +28,10 @@
       <div class="page-content">
         <f7-list>
           <f7-list-item link="/dentista/" title="Dentista">
-            <f7-icon slot="media" icon="fas fa-tooth"></f7-icon>
+            <f7-icon slot="media" icon="fas fa-briefcase"></f7-icon>
           </f7-list-item>
           <f7-list-item link="/dermatologista/" title="Dermatologista">
-            <f7-icon slot="media" icon="far fa-user-circle"></f7-icon>
+            <f7-icon slot="media" icon="fas fa-briefcase"></f7-icon>
           </f7-list-item>
           <f7-list-item link="/ginecologista/" title="Ginecologista">
             <f7-icon slot="media" icon="fas fa-briefcase"></f7-icon>

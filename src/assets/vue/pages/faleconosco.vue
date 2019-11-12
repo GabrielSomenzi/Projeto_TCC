@@ -4,7 +4,6 @@
     <div class="card-content-padding list">
       <ul>
         <li>
-          <br />
           <div class="item-text">
             Para qualquer dúvida,
             sugestão mande-nos
@@ -47,10 +46,11 @@
         <div class="item-title">
           <p>Você que deseja atualizar seu cadastro?</p>
           <p>Ou até mesmo cadastrar-se!?</p>
-          <p> Mande-nos um e-mail com suas informações.</p>
+          <p>Mande-nos um e-mail com suas informações.</p>
           <p>-Nome</p>
           <p>-Contato</p>
           <p>-E-mail</p>
+          <p>-Uma foto sua</p>
           <p>-Sobre você</p>
         </div>
         <li>

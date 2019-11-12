@@ -322,9 +322,7 @@
             <!-- Close Popup -->
 
             <div class="item-text">
-              <div class="item-header">
-                <b>Sobre mim</b>
-              </div>FORMADA PELA FACULDADE DE ODONTOLOGIA DA UNIVERSIDADE DE SÃO PAULO (FO USP)
+              <div class="item-header"></div>FORMADA PELA FACULDADE DE ODONTOLOGIA DA UNIVERSIDADE DE SÃO PAULO (FO USP)
               <p>-EXPERIENCIA EM TRATAMENTO DTM (DISFUNCAO TEMPOROMANDIBULAR)</p>
               <p>-FELLOW DO ITI (INTERNATIONAL TEAM FOR IMPLANTOLOGY)</p>
               <p></p>
@@ -364,7 +362,6 @@
             </a>
           </f7-navbar>
           <div class="block">
-            <b>Sobre mim</b>
             <!-- Close Popup -->
 
             <div class="item-text">
@@ -423,7 +420,6 @@
           </f7-navbar>
 
           <div class="block">
-            <p>Sobre mim</p>
             <!-- Close Popup -->
 
             <div class="item-text">
@@ -435,7 +431,7 @@
                 <br />
                 <div class="item-title">
                   <div class="item-header">
-                    <b>Experiência em</b>
+                    <b>Experiência em:</b>
                   </div>
                   <p>
                     Cirurgia Oral
@@ -464,13 +460,6 @@
     </div>
   </f7-page>
 </template>
-
-
-
-
-
-
-
 <script>
 export default {
   components: {}
